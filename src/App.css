@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: gray;
+}
+.App-header {
+  background-color: gray;
+  min-height: 5vh;
+}
+/* .int1 {
+  height: 50px;
+  width: 500px;
+  background-color: #e7e7e7;
+  font-family: "Nunito", sans-serif;
+  font-weight: 20px;
+} */
